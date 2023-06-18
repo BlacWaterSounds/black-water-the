@@ -1,0 +1,17 @@
+
+
+body {
+    background-image: url("bws\ pic.PNG");
+    background-color: rgb(14, 148, 46);
+}
+
+h1 {
+  color: rgb(71, 8, 8);
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
